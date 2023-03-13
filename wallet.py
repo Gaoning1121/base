@@ -2,7 +2,7 @@ from eth_keys import keys
 from eth_utils import decode_hex
 import os
 
-n = 570  # 生成的钱包数
+n = 50  # 生成的钱包数
 wallet_file = "wallet2.txt"
 wallets = []
 
